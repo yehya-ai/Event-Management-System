@@ -91,4 +91,4 @@ Database:
 
 🔗 GitHub Repository
 
-👉 https://github.com/yehya-ai/Graduation-Project-Group-5.git
+👉 https://github.com/yehya-ai/Event-Management-System.git
