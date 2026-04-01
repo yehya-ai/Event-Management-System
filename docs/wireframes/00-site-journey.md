@@ -29,6 +29,9 @@ Login Page → Admin Dashboard → Manage Events → View Participants
 - The admin can view registered participants for each event
 
 ---
+## Flow Diagram
+
+![Site Journey](images/site-journey-diagram.png)
 
 ## Simple Flow Diagram
 
