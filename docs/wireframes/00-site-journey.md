@@ -31,8 +31,7 @@ Login Page → Admin Dashboard → Manage Events → View Participants
 ---
 ## Flow Diagram
 
-![Site Journey](images/site-journey-diagram.png)
-
+![Site Journey](images/00-site-journey-diagram.png)
 ## Simple Flow Diagram
 
 ```text
