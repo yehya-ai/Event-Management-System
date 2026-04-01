@@ -60,4 +60,4 @@ It provides a quick overview of the platform and allows users to explore availab
 
 ## Wireframe
 
-![Landing Page](images/landing-page.png)
+![Landing Page](images/01-landing-page.png)
