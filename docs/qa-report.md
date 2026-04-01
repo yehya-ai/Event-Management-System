@@ -1,41 +1,48 @@
 # QA Report
 
+This report summarizes the testing status of the system features and identifies current issues.
+
+---
+
 ## Tested Features
 
 ### 1. Event Creation
-- Status: Not implemented yet
-- Expected: Admin can create events
-- Result: Pending
+- Status: Not Implemented  
+- Expected: Admin can create events  
+- Result: Not Tested  
 
 ### 2. View Events
-- Status: UI only
-- Expected: Users can view events
-- Result: Works as static content
+- Status: UI Only  
+- Expected: Users can view events  
+- Result: Works as static content  
 
 ### 3. Registration
-- Status: Not connected to backend
-- Expected: Users can register
-- Result: Pending
+- Status: Not Connected to Backend  
+- Expected: Users can register  
+- Result: Not Tested  
 
 ### 4. Backend API
-- Status: Implemented
-- Expected: API returns data
-- Result: Works correctly
+- Status: Implemented  
+- Expected: API returns data  
+- Result: Works correctly  
 
 ---
 
 ## UI Testing
-- Pages are clear and organized
-- Navigation is simple
+
+- Pages are clear and organized  
+- Navigation is simple and user-friendly  
 
 ---
 
 ## Issues Found
-- No authentication yet
-- No database connection
-- No real data storage
+
+- No authentication system yet  
+- No database connection  
+- No real data storage  
 
 ---
 
 ## Conclusion
-The system structure is ready, but more development is needed to complete functionality.
+
+The system structure is well-prepared, but further development is required to achieve full functionality and integration between frontend and backend components.
