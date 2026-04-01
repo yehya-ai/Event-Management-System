@@ -1,6 +1,16 @@
 # Login Page Wireframe
 
-- Email field
+## Main Sections
+- Login form
+- Footer placeholder
+
+## UI Elements
+- Email or username field
 - Password field
 - Login button
-- Link to register
+- Forgot password link
+- Link to Register page
+
+## Notes
+- Validation messages should appear below fields if input is invalid
+- The form should be simple and clear
