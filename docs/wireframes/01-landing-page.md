@@ -57,3 +57,7 @@ It provides a quick overview of the platform and allows users to explore availab
 - The design should be simple and clean  
 - Focus on easy navigation  
 - Highlight important actions like "View Events"
+
+## Wireframe
+
+![Landing Page](images/landing-page.png)
