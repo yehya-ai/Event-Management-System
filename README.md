@@ -26,14 +26,13 @@ It allows administrators to create, edit, and manage events, while participants 
 
 ## 👥 Team Members
 
-| Name | Role | GitHub |
-|------|------|--------|
-| يحيى الحريم | Team Leader | |
-| عبدالكريم صالح | Frontend Developer | |
-| تمرحنة راضي | Backend Developer | |
-| مجد العماوي | Tester / QA | |
-| رزان غباين | Documentation Lead | |
-
+| Role | Student Name |
+|------|--------------|
+| Team Leader | يحيى الحريم |
+| Frontend Developer | عبدالكريم صالح |
+| Backend Developer | تمرحنة راضي |
+| Tester / QA | مجد العماوي |
+| Documentation Lead | رزان غباين |
 ---
 
 ## 🧩 System Features
