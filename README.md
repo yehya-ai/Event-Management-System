@@ -21,6 +21,7 @@ It allows administrators to create, edit, and manage events, while participants 
 - [Introduction](docs/01-introduction.md)
 - [Stakeholder Analysis](docs/02-stakeholder-analysis.md)
 - [Use Cases](docs/03-use-cases.md)
+- - [Week 1 QA Review](docs/qa/week1-review.md)
 
 ---
 
