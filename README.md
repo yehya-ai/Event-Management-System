@@ -33,7 +33,7 @@ It allows administrators to create, edit, and manage events, while participants 
 | Frontend Developer | عبدالكريم صالح |
 | Backend Developer | تمرحنة راضي |
 | Tester / QA | مجد العماوي |
-| Documentation Lead | رزان غباين |
+| Documentation Lead | رزان غباين + يحيى الحريم |
 ---
 
 ## 🧩 System Features
