@@ -26,7 +26,7 @@ It provides a quick overview of the platform and allows users to explore availab
   - Login
 
 ### Hero Section
-- Title: "Manage Your Events بسهولة"
+- Title: "Manage Your Events easily"
 - Short description of the system
 - Button: "View Events"
 
