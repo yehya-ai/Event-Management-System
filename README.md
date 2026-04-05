@@ -31,9 +31,9 @@ It allows administrators to create, edit, and manage events, while participants 
 |------|--------------|
 | Team Leader | يحيى الحريم |
 | Frontend Developer | عبدالكريم صالح |
-| Backend Developer | تمرحنة راضي |
+| Backend Developer |يحيى الحريم + تمرحنة راضي |
 | Tester / QA | مجد العماوي |
-| Documentation Lead | رزان غباين + يحيى الحريم |
+| Documentation Lead |  يحيى الحريم + رزان غباين  |
 ---
 
 ## 🧩 System Features
